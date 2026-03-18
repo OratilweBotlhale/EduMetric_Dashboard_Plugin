@@ -3,7 +3,7 @@
  * Plugin Name: EduRank Mega Dashboard
  * Description: Creates School, Donor and Admin dashboards, leaderboard and impact stories pages & shortcodes for EduRank. Uses myCred / GiveWP if present. Safe fallbacks included.
  * Version: 1.0
- * Author: EduRank
+ * Author: EduRank/Oratilwe
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
